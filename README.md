@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey , I'm Caio Basso </b> ✋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Bachelor+of+Computer+Science.;Web+Developer+based+in+Curitiba,+Brazil"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+based+in+Curitiba,+Brazil"></a>
 </p>
 
 
@@ -21,8 +21,6 @@
 - I’m currently open for a new job opportunity!
 
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--
 ## 📃<b> Skills</b>
@@ -83,7 +81,7 @@
 <div align="center">
 
 <a href="https://github.com/caio-basso/">
-  <img src="https://github-readme-stats.vercel.app/api?username=caio-basso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&hide=commits,prs" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caio-basso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&hide=issues,stars,contribs" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caio-basso&show_icons=true&locale=en&layout=compact&line_height=20&theme=react" width="375"  alt="0xabdulkhalid"/>
 
 </a>
@@ -93,10 +91,6 @@
 <br>
 <br>
 
------
-
-<br>
-<br>
 
 ## 📧 <b> Get in touch!</b>
 <br>
@@ -121,7 +115,5 @@
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
