@@ -14,16 +14,17 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I'm 22 years old, currently living in Curitiba, Brazil
+- Fullstack Web Developer
+- Bachelor's degree in computer science
+- Studying code since 2014
+- I’m currently open for a new job opportunity!
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!--
 ## 📃<b> Skills</b>
 <br>
 
@@ -32,7 +33,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/C#%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -68,14 +69,13 @@
 
 
 </p>
-
 <br>
 <br>
 
 -----
 
 <br>
-
+-->
 
 ## 📊 <b> Github Stats </b>
 <br>
