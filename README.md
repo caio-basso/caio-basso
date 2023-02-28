@@ -82,7 +82,7 @@
 <div align="center">
 
 <a href="https://github.com/caio-basso/">
-  <img src="https://github-readme-stats.vercel.app/api?username=caio-basso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&hide=issues,stars,contrib" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caio-basso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react&hide=issues,stars,contribs" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caio-basso&show_icons=true&locale=en&layout=compact&line_height=20&theme=react" width="375"  alt="0xabdulkhalid"/>
 
 </a>
