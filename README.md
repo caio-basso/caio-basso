@@ -16,7 +16,7 @@
 
 - I'm 22 years old, currently living in Curitiba, Brazil
 - Fullstack Web Developer
-- Primarily working with nodejs and react
+- Primarily working with .Net and react
 - Bachelor's degree in computer science
 - Studying code since 2014
 
