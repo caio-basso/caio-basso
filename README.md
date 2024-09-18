@@ -16,7 +16,7 @@
 
 - I'm 23 years old, currently living in Curitiba, Brazil
 - Fullstack Web Developer
-- Primarily working with .Net and Vue
+- Primarily working with .Net and Blazor
 - Bachelor's degree in computer science
 - Studying code since 2014
 
