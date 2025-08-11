@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey , I'm Caio Basso </b> ✋</h1>
+<h1 align="center"><b>Hey , I'm Caio Basso </b> </h1>
 
 
 <br>
@@ -6,11 +6,10 @@
 
 
 	
-## ☕ **About me**
+## **About me**
 
 <br>
 
-- I'm 24 years old, currently living in Curitiba, Brazil
 - Fullstack Web Developer
 - Primarily working with .Net and Blazor
 - Bachelor's degree in computer science
@@ -18,7 +17,7 @@
 <br><br>
 
 
-## 📞 <b> Get in touch!</b>
+## <b> Get in touch!</b>
 <br>
 <div align='left'>
 
